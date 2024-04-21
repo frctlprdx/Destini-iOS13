@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+struct Story {
+    let title: String
+    let choice1: String
+    let story1: Int
+    let choice2 : String
+    let story2: Int
+}
